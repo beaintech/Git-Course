@@ -7,3 +7,6 @@
 - Centre d Pompidou
 - Montmartre
 - Versailles
+
+## Abendessen Aktivitäten
+- whatever, hauptsache keine Frösche und Schnecken
