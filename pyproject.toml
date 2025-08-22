@@ -1,0 +1,11 @@
+[project]
+name = "joke-generator"
+version = "0.1.0"
+description = "A simple joke generator"
+readme = "README.md"
+requires-python = ">=3.9"
+
+dependencies = [
+    "requests>=2.32.5",
+    "rich>=14.1.0",
+]
